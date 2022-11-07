@@ -6,7 +6,7 @@ Kelas : IK-2B
 
 NIM   : 3.34.21.1.04
 
-![Img 1](ss1.png)
+![ss1](https://user-images.githubusercontent.com/117633075/200279437-4bf84efd-15fa-4e77-9522-b699a7491f6e.png)
 
 Taman Indonesia Kaya
 
